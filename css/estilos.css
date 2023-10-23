@@ -1,12 +1,7 @@
-p[style*="color: darkred"] {
-    color: darkred;
-}
+.estreia-hoje {color: darkred} 
 
-
-p[style*="color: darkblue"] {
-    color: darkblue;
-}
-
+.estreia-amanha {color: darkblue} 
+    
 
 a {
     text-decoration: none;
@@ -22,6 +17,8 @@ p {
     font-size: 20px;
 }
 
-body {
+* {
     font-family: Arial, sans-serif;
+    margin: 0;
+    
 }
